@@ -1,5 +1,7 @@
 # PICU_Criticality_Prognosis
 
+By: Derek Newman 
+
 EEG Criticality and Complexity machine learning analyses for pediatric ICU (PICU) prognosis of functional outcome/recovery.
 
 This repository contains preprocessing, feature extraction, statistical comparison, and classification workflows focused on criticality-informed EEG features.
